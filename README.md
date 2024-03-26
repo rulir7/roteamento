@@ -56,5 +56,5 @@ ng g guard auth
 ** Lembrar de adicionar o FormsModule no APP.MODULE.TS no IMPORT para poder usar o ngModel
 
 Criar um SERVICE de autenticacao para saber quando esta logado 
- ng g service auth
- 
+ ng g service auth 
+
